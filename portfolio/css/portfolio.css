@@ -296,12 +296,13 @@ h4 {
     padding-top: 50px;
 }
 
-.skills_a,
-.skills_b,
-.skills_c,
-.skills_d,
-.skills_e,
-.skills_f{
+.skills_Clip,
+.skills_Ae,
+.skills_HTML,
+.skills_CSS,
+.skills_Unity,
+.skills_Ps,
+.skills_Python{
     width: 150px;
     height: 150px;
     background-position: center;
@@ -317,28 +318,32 @@ h4 {
     
 }
 
-.skills_a{
+.skills_Clip{
     background-image: url("../img/Icon_Clip.png");
 }
 
-.skills_b{
+.skills_Ae{
     background-image: url("../img/Icon_Ae.png");
 }
 
-.skills_c{
-    background-image: url("../img/Icon_Ai.png");
+.skills_HTML{
+    background-image: url("../img/Icon_HTML.png");
 }
 
-.skills_d{
+.skills_Ps{
     background-image: url("../img/Icon_Ps.png");
 }
 
-.skills_e{
+.skills_Python{
     background-image: url("../img/Icon_Python.png");
 }
 
-.skills_f{
+.skills_Unity{
     background-image: url("../img/Icon_Unity.png");
+}
+
+.skills_CSS{
+    background-image: url("../img/Icon_CSS.png");
 }
 
 .skills_text{
